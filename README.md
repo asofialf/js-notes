@@ -12,3 +12,7 @@ Una de las razones por las que JavaScript es tan popular es porque se ejecuta di
 - Amplia compatibilidad
 - Integración con HTML y CSS
 - Gran cantidad de bibliotecas y frameworks
+## Enlaces externos
+<a href="https://github.com/leonardomso/33-js-concepts">
+<p>33 conceptos que cada desarrollador de JS debe conocer</p>
+</a>
