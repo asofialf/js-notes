@@ -16,3 +16,6 @@ Una de las razones por las que JavaScript es tan popular es porque se ejecuta di
 <a href="https://github.com/leonardomso/33-js-concepts">
 <li>33 conceptos que cada desarrollador de JS debe conocer</li>
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<li>JS documentation</li>
+</a>
